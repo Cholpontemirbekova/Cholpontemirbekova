@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cholpontemirbekova
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Deep Leaning
-- 💞️ I’m looking to collaborate on Data Science, Machine Learning and Deep Learning projects
+- 👀 I’m interested in data and in ways we can use data to drive change
+- 🌱 I’m currently seeking employment opportunities in the field of Data Analytics and Data Science
+- 💞️ I’m looking to collaborate on projects in Machine Learning, Data Analytics and Data Science
 - 📫 Please reach me at https://www.linkedin.com/in/cholpon-temirbekova/
 
 <!---
